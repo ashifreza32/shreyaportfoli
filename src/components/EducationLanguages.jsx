@@ -21,7 +21,7 @@ export default function EducationLanguages() {
             
             <motion.div initial={{ opacity: 0, x: -10 }} animate={inView ? { opacity: 1, x: 0 } : {}} className="relative space-y-1">
               <div className="absolute -left-[31px] top-1.5 w-3 h-3 rounded-full bg-[#6C63FF]" />
-              <span className="text-xs font-bold text-[#6C63FF] bg-[#6C63FF]/10 px-2.5 py-0.5 rounded-full">2019 – 2022</span>
+              <span className="text-xs font-bold text-[#6C63FF] bg-[#6C63FF]/10 px-2.5 py-0.5 rounded-full">2019 – 2023</span>
               <h3 className="text-lg font-bold text-[#1E293B]">BBA in Hospital Management</h3>
               <p className="text-sm font-medium text-[#64748B]">NSHM Knowledge Campus (CGPA: 8.3)</p>
             </motion.div>

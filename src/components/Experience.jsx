@@ -41,7 +41,7 @@ export default function Experience() {
     {
       role: "Social Media & Operations Manager",
       org: "Freelance",
-      date: "Feb 2023 – Jun 2023",
+      
       bullets: [
         "Administered day-to-day fulfillment frameworks, real-time stocking levels, and incoming customer relationship tracking pipelines.",
         "Evaluated digital advertisement conversion analytics and demographic metrics to adapt strategic content performance models."
