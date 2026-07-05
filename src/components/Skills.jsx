@@ -11,7 +11,7 @@ export default function Skills() {
     {
       title: "Technical Toolkits",
       icon: <Settings className="text-[#6C63FF]" size={22} />,
-      list: ["Advanced Microsoft Excel", "Google Sheets Frameworks", "PowerPoint Layouts", "Tally ERP Systems", "Digital Operations Systems"]
+      list: ["Advanced Microsoft Excel", "Google Sheets Frameworks", "PowerPoint Layouts", "Digital Operations Systems"]
     },
     {
       title: "Professional Workflow Capabilities",

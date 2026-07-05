@@ -30,7 +30,7 @@ export default function Experience() {
     },
     {
       role: "Sales Manager",
-      org: "CusInvestoxpert Advisors Private Limited",
+      org: "Investoxpert Advisors Private Limited",
       date: "Nov 2022 – Jan 2024",
       bullets: [
         "Directed operational sales squads to hit demanding target quotas while scaling customer relationship indices.",
